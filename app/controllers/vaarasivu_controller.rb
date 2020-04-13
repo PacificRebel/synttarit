@@ -1,0 +1,2 @@
+class VaarasivuController < ApplicationController
+end

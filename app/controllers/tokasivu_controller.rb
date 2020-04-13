@@ -1,0 +1,2 @@
+class TokasivuController < ApplicationController
+end
